@@ -12,6 +12,7 @@ const Divider = () => (
 const LayoutPage = () => {
   return (
     <main>
+      {/* test */}
       <Layout
         divider={<Divider />}
         className="my-[100px] px-32 flex flex-row gap-6"
