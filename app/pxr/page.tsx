@@ -1,4 +1,6 @@
-const Pxr = () => {
+import React from "react";
+
+const Pxr = (): React.ReactElement => {
   return (
     <main className="text-white">
       <h1>20px</h1>
